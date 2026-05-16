@@ -1,0 +1,16 @@
+# Environments and Secrets
+.env
+.env.local
+.env.*.local
+
+# Python standard exclusions
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# IDE files
+.vscode/
+.idea/

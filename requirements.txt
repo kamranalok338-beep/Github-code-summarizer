@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+langchain
+langchain-openai
+PyGithub
+qdrant-client
+python-dotenv
+tiktoken
